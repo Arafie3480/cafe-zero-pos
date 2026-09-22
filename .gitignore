@@ -1,21 +1,6 @@
-# Python
-venv/
 __pycache__/
 *.pyc
-
-# Database
-*.db
-*.sqlite
-*.sqlite3
-
-# Env & Editors
-.env
-.vscode/
-.DS_Store
-*.log
-
-# Python virtual environment and packaging artifacts
 .venv/
+data/cafe_sefr.db
+.pytest_cache/
 *.egg-info/
-build/
-dist/
